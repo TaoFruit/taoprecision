@@ -158,7 +158,7 @@
 
 .grid-border [class^=col-]:hover {
 	background-color: rgba(241,128,82,0.1);
-	border-color: #F18052;
+	border-color: #838BC5;
 	z-index: 1;
 }
 
